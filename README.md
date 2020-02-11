@@ -2,6 +2,8 @@
 
 Command Line Search Utility to search for words in all files inside the specified directory and all it's sub directories.
 
+Searches the input search string in all the files concurrently.
+
 
 ### Usage:
 
