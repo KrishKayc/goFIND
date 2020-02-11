@@ -33,8 +33,8 @@ matchFullWord      :> Determines whethet to match the "full word" or "partial te
 
 ### Output :
 
-![Sample Output 1]https://github.com/KrishKayc/goFIND/tree/master/sample_output/gofind_output_1
-![Sample Output 2]https://github.com/KrishKayc/goFIND/tree/master/sample_output/gofind_output_2
+![Sample Output 1](https://github.com/KrishKayc/goFIND/tree/master/sample_output/gofind_output_1)
+![Sample Output 2](https://github.com/KrishKayc/goFIND/tree/master/sample_output/gofind_output_2)
 
 
 
