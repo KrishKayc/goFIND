@@ -16,6 +16,7 @@ Utility is customizable with a "config.json" file which determines which file ex
 
 Sample config.json
 
+```
 {
     "excludeDirectories" : ["node_modules","bin","sn-item-bank-picker", "scanit-latest","sn-tinymce"],
     "excludeFiles":[],
@@ -23,6 +24,8 @@ Sample config.json
     "matchCase":false,
     "matchFullWord":false
 }
+
+```
 
 * excludeDirectories :> Excludes the specified directories from searching
 * excludeFiles       :> Excludes the specified files from searching
