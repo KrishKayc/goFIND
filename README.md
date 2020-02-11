@@ -4,11 +4,14 @@ Concurrent Search Utility to search for words in all files inside the specified 
 
 ### Usage:
 
-git clone source
+```
+git clone https://github.com/KrishKayc/goFIND.git
 
 go build 
 
 gofind -dir="your search directory path" -search="your search string"
+
+```
 
 ### Configurable:
 
