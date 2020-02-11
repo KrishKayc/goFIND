@@ -24,9 +24,9 @@ Sample config.json
 
 ```
 {
-    "excludeDirectories" : ["node_modules","bin","sn-item-bank-picker", "scanit-latest","sn-tinymce"],
-    "excludeFiles":[],
-    "allowedExtensions" : [".go", ".json", ".txt", ".cs", ".cpp", ".c", ".xml", ".js", ".ts", ".csproj",".html"],
+    "excludeDirectories" : ["node_modules","bin","obj"],
+    "excludeFiles":["launch.json", "appsettings.json"],
+    "allowedExtensions" : [".go", ".json", ".txt", ".cs",".java", ".cpp", ".c", ".xml", ".js", ".ts", ".csproj",".html"],
     "matchCase":false,
     "matchFullWord":false
 }
