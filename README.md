@@ -39,6 +39,7 @@ Sample config.json
 
 ### Output :
 
+![Sample Output](https://github.com/KrishKayc/goFIND/blob/master/sample_output/gofind_sample_output.jpg)
 
 
 
