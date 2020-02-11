@@ -1,5 +1,6 @@
 # goFIND
-Concurrent Search Utility to search for words in all files inside the specified directory and all it's sub directories.
+
+Command Line Search Utility to search for words in all files inside the specified directory and all it's sub directories.
 
 
 ### Usage:
