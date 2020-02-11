@@ -24,11 +24,11 @@ Sample config.json
     "matchFullWord":false
 }
 
-excludeDirectories :> Excludes the specified directories from searching
-excludeFiles       :> Excludes the specified files from searching
-allowedExtensions  :> Only searches within the files specified in this
-matchCase          :> Determines whether to do a "case sensitive search"
-matchFullWord      :> Determines whethet to match the "full word" or "partial text"
+* excludeDirectories :> Excludes the specified directories from searching
+* excludeFiles       :> Excludes the specified files from searching
+* allowedExtensions  :> Only searches within the files specified in this
+* matchCase          :> Determines whether to do a "case sensitive search"
+* matchFullWord      :> Determines whethet to match the "full word" or "partial text"
 
 
 ### Output :
